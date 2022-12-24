@@ -1,4 +1,4 @@
-package com.allendowney.thinkdast;
+package com.allendowney.thinkdast.exercise1;
 
 import static org.junit.Assert.assertThat;
 import static org.hamcrest.CoreMatchers.*;
